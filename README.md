@@ -1,5 +1,6 @@
 # PianoBotV1
 A bot that will automatically play piano tiles
+![#f03c15] This program's performance may vary between devices `#f03c15`
 This program is designed to be used with the web version of piano tiles: https://www.silvergames.com/en/piano-tiles. As it is a demonstration software, there will be no further improvements.
 
 Steps:
