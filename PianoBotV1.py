@@ -1,4 +1,4 @@
-print("PianoBot V. Beta (c) Michael")
+print("PianoBot V. 1.00 (c) Michael")
 try:
     import sys
     import subprocess
